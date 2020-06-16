@@ -1,0 +1,49 @@
+﻿  Browser.cpp
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\Browser.cpp(210,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\Browser.cpp(246,126): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\Browser.cpp(249,21): warning C4018: '<': signed/unsigned mismatch
+  classes.cpp
+  functions.cpp
+  GameManager.cpp
+  GameObject.cpp
+  Goomba.cpp
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\Goomba.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\Goomba.cpp(65,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\Goomba.cpp(208,21): warning C4018: '<': signed/unsigned mismatch
+  Instruction.cpp
+  Koopa.cpp
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\Koopa.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\Koopa.cpp(89,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\Koopa.cpp(210,21): warning C4018: '<': signed/unsigned mismatch
+  Leaderboard.cpp
+  main.cpp
+  Mario.cpp
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\Mario.cpp(99,22): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\Mario.cpp(271,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\Mario.cpp(523,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\Mario.cpp(674,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\Mario.cpp(712,22): warning C4018: '<': signed/unsigned mismatch
+  Menu.cpp
+  Npc.cpp
+  OptionBase.cpp
+  Options.cpp
+  TileMap.cpp
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\TileMap.cpp(65,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\TileMap.cpp(67,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\TileMap.cpp(265,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\TileMap.cpp(269,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\TileMap.cpp(276,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Mario\TileMap.cpp(280,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 926 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Mario.vcxproj -> C:\Users\Michał\source\repos\MGsroda8302\Projekt PK4\Release\Mario.exe

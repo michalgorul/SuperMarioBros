@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Browser" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAAACAAEACACAIQAABAAAEAECCAAQQEgIImAAg=</HashCode>
+      <FileName>Browser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAIEAAAAAAAAAIAAAAAAQAAAAAAAAAAgAAEAAA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Goomba" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAwAAAAAAAgAAAIAQAAQAIAhEkEAAAAAgIAEAAA=</HashCode>
+      <FileName>Goomba.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Instruction" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEBAAAAACCAAAIAAAAAABAIEoAABAAAAEAAKAA=</HashCode>
+      <FileName>Instruction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Koopa" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAQABAAAAAAAgCAMIAIAAAgEAAQAEAAAAIgIAMgAQ=</HashCode>
+      <FileName>Koopa.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leaderboard" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAACAAAAMAAAAAAAEAEIAACAAAAAAADAA=</HashCode>
+      <FileName>Leaderboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mario" Collapsed="true">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADkW8DJiQMDCBsomEIsYIWxaBqYJAiCQIBwGhgIUACg=</HashCode>
+      <FileName>Mario.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIFBAAAAAAAAAAIAAAgAAAAIEAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Npc" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAAAACICAAAAAAIABAAIBAABAgAAIAYAgAAEEAA=</HashCode>
+      <FileName>Npc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OptionBase" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIEBAEAAAAAAAAIABAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>OptionBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Options" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIEBAAAAACAAAAIAAAAAAAAAEIAAAAAAAEBACAA=</HashCode>
+      <FileName>Options.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileMap" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Eg1BgAAEABAjKIAIgEJgIgAEBlQACQMiIAczDAlWIqY=</HashCode>
+      <FileName>TileMap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
